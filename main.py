@@ -1,5 +1,4 @@
 '''
-
 Particle Swarm Algorithm for the Travelling Salesman Problem
 v1.0
 
@@ -16,13 +15,14 @@ https://github.com/grosa1
 
 import random
 import math
+import time
 import sys
 import os
 
-PARTICLE_COUNT = 10
+PARTICLE_COUNT = 100
 V_MAX = 4 # Maximum velocity change allowed.  Range: 0 >= V_MAX < CITY_COUNT
 
-MAX_EPOCHS = 1000
+MAX_EPOCHS = 100
 
 particles = []
 
@@ -90,6 +90,7 @@ def get_total_distance(index):
     return
 
 def initialize_city_list(file_path):
+    start_time = time.time()
     with open(file_path, 'r') as f:
         f.readline()
         f.readline()
@@ -106,6 +107,7 @@ def initialize_city_list(file_path):
                 newCity.set_x(float(c[1]))
                 newCity.set_y(float(c[2]))
                 Map.city_list.append(newCity)
+    print("---Time reading file and creating Cities: %s seconds ---\n" % str(time.time() - start_time))
     return
 
 def randomly_arrange(index = 0):
@@ -262,6 +264,9 @@ def PSO_algorithm():
     done = False
     
     initialize_particles()
+
+    start_time = time.time()
+    print("Searching for shortest way possible...")
     
     while not done:
         # the loop ends if the maximum number of epochs allowed has been reached
@@ -287,6 +292,7 @@ def PSO_algorithm():
         
         else:
             done = True
+            print("---Route found in %s seconds ---" % str(time.time() - start_time))
     
     return
 
