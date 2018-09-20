@@ -301,7 +301,7 @@ def print_best_solution():
     for j in range(Map.city_count):
         sys.stdout.write(str(particles[0].get_data(j)) + ", ")
     
-    sys.stdout.write("Distance: " + str(particles[0].get_pBest()) + "\n")
+    sys.stdout.write("\nDistance: " + str(particles[0].get_pBest()) + "\n")
     sys.stdout.write("City count: " + str(Map.city_count))
     return
 
