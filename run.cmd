@@ -1,0 +1,1 @@
+py main.py qatar.txt > output.txt

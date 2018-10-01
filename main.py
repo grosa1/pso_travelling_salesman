@@ -19,10 +19,10 @@ import time
 import sys
 import os
 
-PARTICLE_COUNT = 100
-V_MAX = 4 # Maximum velocity change allowed.  Range: 0 >= V_MAX < CITY_COUNT
-
-MAX_EPOCHS = 100
+PARTICLE_COUNT = 250
+V_MAX = 100 # Maximum velocity change allowed.  Range: 0 >= V_MAX < CITY_COUNT
+TIME_LIMIT = 60 #time limit in seconds, no limit if =0
+MAX_EPOCHS = 0 #iterations number, no limit if =0
 
 particles = []
 
@@ -245,7 +245,7 @@ def update_particles():
         if i > 0:
             # The higher the velocity score, the more changes it will need.
             changes = math.floor(math.fabs(particles[i].get_velocity()))
-            sys.stdout.write("Changes for particle " + str(i) + ": " + str(changes) + "\n")
+            #sys.stdout.write("Changes for particle " + str(i) + ": " + str(changes) + "\n")
             for j in range(changes):
                 # 50/50 chance.
                 if random.random() > 0.5:
@@ -269,31 +269,30 @@ def PSO_algorithm():
     print("Searching for shortest way possible...")
     
     while not done:
-        # the loop ends if the maximum number of epochs allowed has been reached
-        if epoch < MAX_EPOCHS:
-            for i in range(PARTICLE_COUNT):
-                sys.stdout.write("Route: ")
-                
-                for j in range(Map.city_count):
-                    sys.stdout.write(str(particles[i].get_data(j)) + ", ")
-                
-                get_total_distance(i)
-                sys.stdout.write("Distance: " + str(particles[i].get_pBest()) + "\n")
+        for i in range(PARTICLE_COUNT):
+            #sys.stdout.write("Route: ")
             
-            quicksort(particles, 0, len(particles) - 1)
-            # list has to sorted in order for get_velocity() to work.
-            get_velocity()
+            # for j in range(Map.city_count):
+            #     sys.stdout.write(str(particles[i].get_data(j)) + ", ")
             
-            update_particles()
+            get_total_distance(i)
+            #sys.stdout.write("Distance: " + str(particles[i].get_pBest()) + "\n")
             
-            sys.stdout.write("epoch number: " + str(epoch) + "\n")
-            
-            epoch += 1
+        quicksort(particles, 0, len(particles) - 1)
+        # list has to sorted in order for get_velocity() to work.
+        get_velocity()
         
-        else:
+        update_particles()
+        
+        sys.stdout.write("epoch number: " + str(epoch) + "\n")
+        
+        epoch += 1
+        elapsed_time = time.time() - start_time
+        # the loop ends if the maximum number of epochs allowed has been reached or time limit reached
+        if (elapsed_time >= TIME_LIMIT and TIME_LIMIT > 0) or (epoch < MAX_EPOCHS and MAX_EPOCHS > 0):
             done = True
-            print("---Route found in %s seconds ---" % str(time.time() - start_time))
-    
+            print("---Route found in %s seconds ---" % str(elapsed_time))
+            
     return
 
 def print_best_solution():

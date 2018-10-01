@@ -1,0 +1,232 @@
+Read 'qatar.txt': 1/194 lines
+Read 'qatar.txt': 2/194 lines
+Read 'qatar.txt': 3/194 lines
+Read 'qatar.txt': 4/194 lines
+Read 'qatar.txt': 5/194 lines
+Read 'qatar.txt': 6/194 lines
+Read 'qatar.txt': 7/194 lines
+Read 'qatar.txt': 8/194 lines
+Read 'qatar.txt': 9/194 lines
+Read 'qatar.txt': 10/194 lines
+Read 'qatar.txt': 11/194 lines
+Read 'qatar.txt': 12/194 lines
+Read 'qatar.txt': 13/194 lines
+Read 'qatar.txt': 14/194 lines
+Read 'qatar.txt': 15/194 lines
+Read 'qatar.txt': 16/194 lines
+Read 'qatar.txt': 17/194 lines
+Read 'qatar.txt': 18/194 lines
+Read 'qatar.txt': 19/194 lines
+Read 'qatar.txt': 20/194 lines
+Read 'qatar.txt': 21/194 lines
+Read 'qatar.txt': 22/194 lines
+Read 'qatar.txt': 23/194 lines
+Read 'qatar.txt': 24/194 lines
+Read 'qatar.txt': 25/194 lines
+Read 'qatar.txt': 26/194 lines
+Read 'qatar.txt': 27/194 lines
+Read 'qatar.txt': 28/194 lines
+Read 'qatar.txt': 29/194 lines
+Read 'qatar.txt': 30/194 lines
+Read 'qatar.txt': 31/194 lines
+Read 'qatar.txt': 32/194 lines
+Read 'qatar.txt': 33/194 lines
+Read 'qatar.txt': 34/194 lines
+Read 'qatar.txt': 35/194 lines
+Read 'qatar.txt': 36/194 lines
+Read 'qatar.txt': 37/194 lines
+Read 'qatar.txt': 38/194 lines
+Read 'qatar.txt': 39/194 lines
+Read 'qatar.txt': 40/194 lines
+Read 'qatar.txt': 41/194 lines
+Read 'qatar.txt': 42/194 lines
+Read 'qatar.txt': 43/194 lines
+Read 'qatar.txt': 44/194 lines
+Read 'qatar.txt': 45/194 lines
+Read 'qatar.txt': 46/194 lines
+Read 'qatar.txt': 47/194 lines
+Read 'qatar.txt': 48/194 lines
+Read 'qatar.txt': 49/194 lines
+Read 'qatar.txt': 50/194 lines
+Read 'qatar.txt': 51/194 lines
+Read 'qatar.txt': 52/194 lines
+Read 'qatar.txt': 53/194 lines
+Read 'qatar.txt': 54/194 lines
+Read 'qatar.txt': 55/194 lines
+Read 'qatar.txt': 56/194 lines
+Read 'qatar.txt': 57/194 lines
+Read 'qatar.txt': 58/194 lines
+Read 'qatar.txt': 59/194 lines
+Read 'qatar.txt': 60/194 lines
+Read 'qatar.txt': 61/194 lines
+Read 'qatar.txt': 62/194 lines
+Read 'qatar.txt': 63/194 lines
+Read 'qatar.txt': 64/194 lines
+Read 'qatar.txt': 65/194 lines
+Read 'qatar.txt': 66/194 lines
+Read 'qatar.txt': 67/194 lines
+Read 'qatar.txt': 68/194 lines
+Read 'qatar.txt': 69/194 lines
+Read 'qatar.txt': 70/194 lines
+Read 'qatar.txt': 71/194 lines
+Read 'qatar.txt': 72/194 lines
+Read 'qatar.txt': 73/194 lines
+Read 'qatar.txt': 74/194 lines
+Read 'qatar.txt': 75/194 lines
+Read 'qatar.txt': 76/194 lines
+Read 'qatar.txt': 77/194 lines
+Read 'qatar.txt': 78/194 lines
+Read 'qatar.txt': 79/194 lines
+Read 'qatar.txt': 80/194 lines
+Read 'qatar.txt': 81/194 lines
+Read 'qatar.txt': 82/194 lines
+Read 'qatar.txt': 83/194 lines
+Read 'qatar.txt': 84/194 lines
+Read 'qatar.txt': 85/194 lines
+Read 'qatar.txt': 86/194 lines
+Read 'qatar.txt': 87/194 lines
+Read 'qatar.txt': 88/194 lines
+Read 'qatar.txt': 89/194 lines
+Read 'qatar.txt': 90/194 lines
+Read 'qatar.txt': 91/194 lines
+Read 'qatar.txt': 92/194 lines
+Read 'qatar.txt': 93/194 lines
+Read 'qatar.txt': 94/194 lines
+Read 'qatar.txt': 95/194 lines
+Read 'qatar.txt': 96/194 lines
+Read 'qatar.txt': 97/194 lines
+Read 'qatar.txt': 98/194 lines
+Read 'qatar.txt': 99/194 lines
+Read 'qatar.txt': 100/194 lines
+Read 'qatar.txt': 101/194 lines
+Read 'qatar.txt': 102/194 lines
+Read 'qatar.txt': 103/194 lines
+Read 'qatar.txt': 104/194 lines
+Read 'qatar.txt': 105/194 lines
+Read 'qatar.txt': 106/194 lines
+Read 'qatar.txt': 107/194 lines
+Read 'qatar.txt': 108/194 lines
+Read 'qatar.txt': 109/194 lines
+Read 'qatar.txt': 110/194 lines
+Read 'qatar.txt': 111/194 lines
+Read 'qatar.txt': 112/194 lines
+Read 'qatar.txt': 113/194 lines
+Read 'qatar.txt': 114/194 lines
+Read 'qatar.txt': 115/194 lines
+Read 'qatar.txt': 116/194 lines
+Read 'qatar.txt': 117/194 lines
+Read 'qatar.txt': 118/194 lines
+Read 'qatar.txt': 119/194 lines
+Read 'qatar.txt': 120/194 lines
+Read 'qatar.txt': 121/194 lines
+Read 'qatar.txt': 122/194 lines
+Read 'qatar.txt': 123/194 lines
+Read 'qatar.txt': 124/194 lines
+Read 'qatar.txt': 125/194 lines
+Read 'qatar.txt': 126/194 lines
+Read 'qatar.txt': 127/194 lines
+Read 'qatar.txt': 128/194 lines
+Read 'qatar.txt': 129/194 lines
+Read 'qatar.txt': 130/194 lines
+Read 'qatar.txt': 131/194 lines
+Read 'qatar.txt': 132/194 lines
+Read 'qatar.txt': 133/194 lines
+Read 'qatar.txt': 134/194 lines
+Read 'qatar.txt': 135/194 lines
+Read 'qatar.txt': 136/194 lines
+Read 'qatar.txt': 137/194 lines
+Read 'qatar.txt': 138/194 lines
+Read 'qatar.txt': 139/194 lines
+Read 'qatar.txt': 140/194 lines
+Read 'qatar.txt': 141/194 lines
+Read 'qatar.txt': 142/194 lines
+Read 'qatar.txt': 143/194 lines
+Read 'qatar.txt': 144/194 lines
+Read 'qatar.txt': 145/194 lines
+Read 'qatar.txt': 146/194 lines
+Read 'qatar.txt': 147/194 lines
+Read 'qatar.txt': 148/194 lines
+Read 'qatar.txt': 149/194 lines
+Read 'qatar.txt': 150/194 lines
+Read 'qatar.txt': 151/194 lines
+Read 'qatar.txt': 152/194 lines
+Read 'qatar.txt': 153/194 lines
+Read 'qatar.txt': 154/194 lines
+Read 'qatar.txt': 155/194 lines
+Read 'qatar.txt': 156/194 lines
+Read 'qatar.txt': 157/194 lines
+Read 'qatar.txt': 158/194 lines
+Read 'qatar.txt': 159/194 lines
+Read 'qatar.txt': 160/194 lines
+Read 'qatar.txt': 161/194 lines
+Read 'qatar.txt': 162/194 lines
+Read 'qatar.txt': 163/194 lines
+Read 'qatar.txt': 164/194 lines
+Read 'qatar.txt': 165/194 lines
+Read 'qatar.txt': 166/194 lines
+Read 'qatar.txt': 167/194 lines
+Read 'qatar.txt': 168/194 lines
+Read 'qatar.txt': 169/194 lines
+Read 'qatar.txt': 170/194 lines
+Read 'qatar.txt': 171/194 lines
+Read 'qatar.txt': 172/194 lines
+Read 'qatar.txt': 173/194 lines
+Read 'qatar.txt': 174/194 lines
+Read 'qatar.txt': 175/194 lines
+Read 'qatar.txt': 176/194 lines
+Read 'qatar.txt': 177/194 lines
+Read 'qatar.txt': 178/194 lines
+Read 'qatar.txt': 179/194 lines
+Read 'qatar.txt': 180/194 lines
+Read 'qatar.txt': 181/194 lines
+Read 'qatar.txt': 182/194 lines
+Read 'qatar.txt': 183/194 lines
+Read 'qatar.txt': 184/194 lines
+Read 'qatar.txt': 185/194 lines
+Read 'qatar.txt': 186/194 lines
+Read 'qatar.txt': 187/194 lines
+Read 'qatar.txt': 188/194 lines
+Read 'qatar.txt': 189/194 lines
+Read 'qatar.txt': 190/194 lines
+Read 'qatar.txt': 191/194 lines
+Read 'qatar.txt': 192/194 lines
+Read 'qatar.txt': 193/194 lines
+Read 'qatar.txt': 194/194 lines
+Read 'qatar.txt': 195/194 lines
+---Time reading file and creating Cities: 2.738774299621582 seconds ---
+
+Searching for shortest way possible...
+epoch number: 0
+epoch number: 1
+epoch number: 2
+epoch number: 3
+epoch number: 4
+epoch number: 5
+epoch number: 6
+epoch number: 7
+epoch number: 8
+epoch number: 9
+epoch number: 10
+epoch number: 11
+epoch number: 12
+epoch number: 13
+epoch number: 14
+epoch number: 15
+epoch number: 16
+epoch number: 17
+epoch number: 18
+epoch number: 19
+epoch number: 20
+epoch number: 21
+epoch number: 22
+epoch number: 23
+epoch number: 24
+epoch number: 25
+epoch number: 26
+epoch number: 27
+epoch number: 28
+---Route found in 60.06033897399902 seconds ---
+epoch number: 29
+Shortest Route: 0, 1, 2, 3, 87, 5, 6, 7, 8, 43, 10, 11, 12, 69, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 9, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 13, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 92, 82, 83, 84, 85, 86, 4, 89, 88, 90, 91, 117, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 81, 118, 119, 120, 121, 122, 127, 124, 125, 126, 123, 179, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 163, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 143, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 128, 180, 184, 182, 183, 181, 185, 186, 187, 188, 189, 190, 191, 192, 193, 
+Distance: 42282.59130455574
+City count: 194
