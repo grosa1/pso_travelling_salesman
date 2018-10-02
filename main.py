@@ -19,9 +19,9 @@ import time
 import sys
 import os
 
-PARTICLE_COUNT = 250
-V_MAX = 100 # Maximum velocity change allowed.  Range: 0 >= V_MAX < CITY_COUNT
-TIME_LIMIT = 60 #time limit in seconds, no limit if =0
+PARTICLE_COUNT = 7000
+V_MAX = 190 # Maximum velocity change allowed.  Range: 0 >= V_MAX < CITY_COUNT
+TIME_LIMIT = 1800 #time limit in seconds, no limit if =0
 MAX_EPOCHS = 0 #iterations number, no limit if =0
 
 particles = []
@@ -92,6 +92,7 @@ def get_total_distance(index):
 def initialize_city_list(file_path):
     start_time = time.time()
     with open(file_path, 'r') as f:
+        f.readline()
         f.readline()
         f.readline()
         f.readline()

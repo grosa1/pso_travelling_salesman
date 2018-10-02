@@ -1,3 +1,6 @@
+PARTICLE_COUNT = 2500
+V_MAX = 50
+
 Read 'qatar.txt': 1/194 lines
 Read 'qatar.txt': 2/194 lines
 Read 'qatar.txt': 3/194 lines
@@ -193,7 +196,7 @@ Read 'qatar.txt': 192/194 lines
 Read 'qatar.txt': 193/194 lines
 Read 'qatar.txt': 194/194 lines
 Read 'qatar.txt': 195/194 lines
----Time reading file and creating Cities: 2.738774299621582 seconds ---
+---Time reading file and creating Cities: 2.8104591369628906 seconds ---
 
 Searching for shortest way possible...
 epoch number: 0
@@ -225,8 +228,105 @@ epoch number: 25
 epoch number: 26
 epoch number: 27
 epoch number: 28
----Route found in 60.06033897399902 seconds ---
 epoch number: 29
-Shortest Route: 0, 1, 2, 3, 87, 5, 6, 7, 8, 43, 10, 11, 12, 69, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 9, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 13, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 92, 82, 83, 84, 85, 86, 4, 89, 88, 90, 91, 117, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 81, 118, 119, 120, 121, 122, 127, 124, 125, 126, 123, 179, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 163, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 143, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 128, 180, 184, 182, 183, 181, 185, 186, 187, 188, 189, 190, 191, 192, 193, 
-Distance: 42282.59130455574
+epoch number: 30
+epoch number: 31
+epoch number: 32
+epoch number: 33
+epoch number: 34
+epoch number: 35
+epoch number: 36
+epoch number: 37
+epoch number: 38
+epoch number: 39
+epoch number: 40
+epoch number: 41
+epoch number: 42
+epoch number: 43
+epoch number: 44
+epoch number: 45
+epoch number: 46
+epoch number: 47
+epoch number: 48
+epoch number: 49
+epoch number: 50
+epoch number: 51
+epoch number: 52
+epoch number: 53
+epoch number: 54
+epoch number: 55
+epoch number: 56
+epoch number: 57
+epoch number: 58
+epoch number: 59
+epoch number: 60
+epoch number: 61
+epoch number: 62
+epoch number: 63
+epoch number: 64
+epoch number: 65
+epoch number: 66
+epoch number: 67
+epoch number: 68
+epoch number: 69
+epoch number: 70
+epoch number: 71
+epoch number: 72
+epoch number: 73
+epoch number: 74
+epoch number: 75
+epoch number: 76
+epoch number: 77
+epoch number: 78
+epoch number: 79
+epoch number: 80
+epoch number: 81
+epoch number: 82
+epoch number: 83
+epoch number: 84
+epoch number: 85
+epoch number: 86
+epoch number: 87
+epoch number: 88
+epoch number: 89
+epoch number: 90
+epoch number: 91
+epoch number: 92
+epoch number: 93
+epoch number: 94
+epoch number: 95
+epoch number: 96
+epoch number: 97
+epoch number: 98
+epoch number: 99
+epoch number: 100
+epoch number: 101
+epoch number: 102
+epoch number: 103
+epoch number: 104
+epoch number: 105
+epoch number: 106
+epoch number: 107
+epoch number: 108
+epoch number: 109
+epoch number: 110
+epoch number: 111
+epoch number: 112
+epoch number: 113
+epoch number: 114
+epoch number: 115
+epoch number: 116
+epoch number: 117
+epoch number: 118
+epoch number: 119
+epoch number: 120
+epoch number: 121
+epoch number: 122
+epoch number: 123
+epoch number: 124
+epoch number: 125
+epoch number: 126
+---Route found in 1812.1941995620728 seconds ---
+Shortest Route: 0, 1, 2, 3, 7, 5, 6, 4, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 73, 44, 45, 49, 47, 48, 46, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 43, 61, 62, 63, 64, 65, 66, 67, 118, 71, 70, 69, 72, 60, 74, 75, 76, 77, 78, 79, 80, 81, 105, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 82, 106, 109, 108, 107, 110, 111, 112, 113, 114, 115, 116, 117, 68, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 171, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 189, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 131, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 157, 190, 191, 192, 193, 
+Distance: 41029.374854349575
 City count: 194
